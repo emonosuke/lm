@@ -1,3 +1,6 @@
+""" Prepare character sequences from origial corpus.
+"""
+
 import argparse
 import re
 
